@@ -4,3 +4,4 @@
 * lime
 * salt
 ## Instruction
+1. Mash everything
